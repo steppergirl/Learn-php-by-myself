@@ -1,0 +1,18 @@
+PHP Learning Notes No.1
+
+1.0 Introductory:
+
+I first learned php when I was a fresh girl in the university. I started a progamme with my friends and we need achieve remote login in. And 
+I chose PHP as dynamic interactive language. And before that, I learned HTML and CSS in summer hoilday. On April in 2016, I wrote web pages for
+my college with my partners. And we were encouraged. Now I am going to start my thrid year in university. I finish my final exam. I think it is
+a good chance to review php. And I will write down some notes in the process.
+
+1.1 Build Operating Environment
+
+I had built operating environment for php when i first learned php. Because I refreshed operating system in the computer, I lost the operating 
+system in my computer.
+PHP is a language which used in the back of the database and the website. You must set HTTP protocol and also need to set MySQL. 
+I recommand AppServ package to set up your operating system. It is very helpful to set up the paths of Apache MySQL PHP. If you download the
+three packages seperately, you need to set paths through control panel.
+
+This is the first step of starting php program. 
